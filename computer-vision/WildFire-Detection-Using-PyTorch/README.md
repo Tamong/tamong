@@ -4,7 +4,7 @@
 
 The "Wildfire Detection using Computer Vision" project addresses the urgent need for early wildfire detection. Utilizing advanced computer vision and machine learning techniques, our team developed a model capable of identifying wildfire incidents from a curated dataset of images. This technology aims to enhance current detection methods, providing a faster, more efficient response to wildfires.
 
-![Sample Images](https://github.com/Tamong/WildFire-Detection-using-PyTorch-Computer-Vision/blob/main/output.png?raw=true)
+![Sample Images](https://github.com/Tamong/tamong/blob/main/computer-vision/WildFire-Detection-Using-PyTorch/output.png?raw=true)
 
 ## Methodology
 
