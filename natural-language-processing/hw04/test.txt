@@ -1,0 +1,705 @@
+
+=========================== Sentence 00000 ===========================
+ibrahim mohamed solih 
+
+[('ibrahim', 'NN'), ('mohamed', 'VBD'), ('solih', 'NN')]
+
+=========================== Sentence 00001 ===========================
+mdp 
+
+[('mdp', 'NN')]
+
+=========================== Sentence 00002 ===========================
+mohamed muizzu 
+
+[('mohamed', 'VBN'), ('muizzu', 'NN')]
+
+=========================== Sentence 00003 ===========================
+pnc 
+
+[('pnc', 'NN')]
+
+=========================== Sentence 00004 ===========================
+presidential elections were held in the maldives on saturday, 9 september 2023, with a second round held on 30 september. 
+
+[('presidential', 'JJ'), ('elections', 'NNS'), ('were', 'VBD'), ('held', 'VBN'), ('in', 'IN'), ('the', 'DT'), ('maldives', 'NNS'), ('on', 'IN'), ('saturday', 'NN'), (',', ','), ('DATE_000001', 'NNP'), (',', ','), ('with', 'IN'), ('a', 'DT'), ('second', 'JJ'), ('round', 'NN'), ('held', 'VBD'), ('on', 'IN'), ('30', 'CD'), ('september', 'NN'), ('.', '.')]
+9 september 2023
+
+=========================== Sentence 00005 ===========================
+incumbent president ibrahim mohamed solih was seeking re-election, after defeating speaker of the people's majlis mohamed nasheed in the maldivian democratic party primaries. 
+
+[('incumbent', 'JJ'), ('president', 'NN'), ('ibrahim', 'NN'), ('mohamed', 'VBD'), ('solih', 'NN'), ('was', 'VBD'), ('seeking', 'VBG'), ('re-election', 'NN'), (',', ','), ('after', 'IN'), ('defeating', 'VBG'), ('speaker', 'NN'), ('of', 'IN'), ('the', 'DT'), ('people', 'NNS'), ("'s", 'POS'), ('majlis', 'NN'), ('mohamed', 'VBD'), ('nasheed', 'VBN'), ('in', 'IN'), ('the', 'DT'), ('maldivian', 'JJ'), ('democratic', 'JJ'), ('party', 'NN'), ('primaries', 'NNS'), ('.', '.')]
+
+=========================== Sentence 00006 ===========================
+people's national congress candidate and malé mayor mohamed muizzu won the election with 54% of the votes, defeating ibrahim mohamed solih and becoming president-elect of the maldives. 
+
+[('people', 'NNS'), ("'s", 'POS'), ('national', 'JJ'), ('congress', 'NN'), ('candidate', 'NN'), ('and', 'CC'), ('malé', 'NN'), ('mayor', 'NN'), ('mohamed', 'VBD'), ('muizzu', 'JJ'), ('won', 'VBD'), ('the', 'DT'), ('election', 'NN'), ('with', 'IN'), ('54', 'CD'), ('%', 'NN'), ('of', 'IN'), ('the', 'DT'), ('votes', 'NNS'), (',', ','), ('defeating', 'VBG'), ('ibrahim', 'NN'), ('mohamed', 'VBD'), ('solih', 'NN'), ('and', 'CC'), ('becoming', 'VBG'), ('president-elect', 'NN'), ('of', 'IN'), ('the', 'DT'), ('maldives', 'NNS'), ('.', '.')]
+
+=========================== Sentence 00007 ===========================
+it was the fourth consecutive election in which a maldivian president failed to win reelection, the last to do so having been maumoon abdul gayoom, who ran unopposed, in 2003. 
+
+[('it', 'PRP'), ('was', 'VBD'), ('the', 'DT'), ('fourth', 'JJ'), ('consecutive', 'JJ'), ('election', 'NN'), ('in', 'IN'), ('which', 'WDT'), ('a', 'DT'), ('maldivian', 'JJ'), ('president', 'NN'), ('failed', 'VBD'), ('to', 'TO'), ('win', 'VB'), ('reelection', 'NN'), (',', ','), ('the', 'DT'), ('last', 'JJ'), ('to', 'TO'), ('do', 'VB'), ('so', 'RB'), ('having', 'VBG'), ('been', 'VBN'), ('maumoon', 'JJ'), ('abdul', 'NN'), ('gayoom', 'NN'), (',', ','), ('who', 'WP'), ('ran', 'VBD'), ('unopposed', 'JJ'), (',', ','), ('in', 'IN'), ('2003', 'CD'), ('.', '.')]
+
+=========================== Sentence 00008 ===========================
+former president abdulla yameen of the progressive party of maldives (ppm) had announced his candidacy for president, but due to his sentencing in 2018 to 11 years in prison for corruption and money laundering due to his connection to the maldives marketing and public relations corporation scandal he is ineligible to appear on the ballot. 
+
+[('former', 'JJ'), ('president', 'NN'), ('abdulla', 'NN'), ('yameen', 'NN'), ('of', 'IN'), ('the', 'DT'), ('progressive', 'JJ'), ('party', 'NN'), ('of', 'IN'), ('maldives', 'NNS'), ('(', '('), ('ppm', 'NN'), (')', ')'), ('had', 'VBD'), ('announced', 'VBN'), ('his', 'PRP$'), ('candidacy', 'NN'), ('for', 'IN'), ('president', 'NN'), (',', ','), ('but', 'CC'), ('due', 'JJ'), ('to', 'TO'), ('his', 'PRP$'), ('sentencing', 'VBG'), ('in', 'IN'), ('2018', 'CD'), ('to', 'TO'), ('11', 'CD'), ('years', 'NNS'), ('in', 'IN'), ('prison', 'NN'), ('for', 'IN'), ('corruption', 'NN'), ('and', 'CC'), ('money', 'NN'), ('laundering', 'NN'), ('due', 'JJ'), ('to', 'TO'), ('his', 'PRP$'), ('connection', 'NN'), ('to', 'TO'), ('the', 'DT'), ('maldives', 'NNS'), ('marketing', 'NN'), ('and', 'CC'), ('public', 'JJ'), ('relations', 'NNS'), ('corporation', 'NN'), ('scandal', 'NN'), ('he', 'PRP'), ('is', 'VBZ'), ('ineligible', 'JJ'), ('to', 'TO'), ('appear', 'VB'), ('on', 'IN'), ('the', 'DT'), ('ballot', 'NN'), ('.', '.')]
+
+=========================== Sentence 00009 ===========================
+ppm's vice president mohamed muizzu purportedly ran on his behalf as a nominee of the pnc, which he also joined before the election. 
+
+[('ppm', 'NN'), ("'s", 'POS'), ('vice', 'NN'), ('president', 'NN'), ('mohamed', 'VBD'), ('muizzu', 'NNS'), ('purportedly', 'RB'), ('ran', 'VBD'), ('on', 'IN'), ('his', 'PRP$'), ('behalf', 'NN'), ('as', 'IN'), ('a', 'DT'), ('nominee', 'NN'), ('of', 'IN'), ('the', 'DT'), ('pnc', 'NN'), (',', ','), ('which', 'WDT'), ('he', 'PRP'), ('also', 'RB'), ('joined', 'VBD'), ('before', 'IN'), ('the', 'DT'), ('election', 'NN'), ('.', '.')]
+
+=========================== Sentence 00010 ===========================
+abdulla yameen opted to support muizzu's candidacy after previously calling for a boycott of the election. 
+
+[('abdulla', 'NN'), ('yameen', 'NN'), ('opted', 'VBD'), ('to', 'TO'), ('support', 'VB'), ('muizzu', 'NN'), ("'s", 'POS'), ('candidacy', 'NN'), ('after', 'IN'), ('previously', 'RB'), ('calling', 'VBG'), ('for', 'IN'), ('a', 'DT'), ('boycott', 'NN'), ('of', 'IN'), ('the', 'DT'), ('election', 'NN'), ('.', '.')]
+
+=========================== Sentence 00011 ===========================
+former minister of defence and national security, mohamed nazim of the maldives national party announced his candidacy for president. 
+
+[('former', 'JJ'), ('minister', 'NN'), ('of', 'IN'), ('defence', 'NN'), ('and', 'CC'), ('national', 'JJ'), ('security', 'NN'), (',', ','), ('mohamed', 'VBD'), ('nazim', 'NN'), ('of', 'IN'), ('the', 'DT'), ('maldives', 'NNS'), ('national', 'JJ'), ('party', 'NN'), ('announced', 'VBD'), ('his', 'PRP$'), ('candidacy', 'NN'), ('for', 'IN'), ('president', 'NN'), ('.', '.')]
+
+=========================== Sentence 00012 ===========================
+the jumhooree party announced that they will put forth candidates as well. 
+
+[('the', 'DT'), ('jumhooree', 'JJ'), ('party', 'NN'), ('announced', 'VBD'), ('that', 'IN'), ('they', 'PRP'), ('will', 'MD'), ('put', 'VB'), ('forth', 'RB'), ('candidates', 'NNS'), ('as', 'IN'), ('well', 'RB'), ('.', '.')]
+
+=========================== Sentence 00013 ===========================
+ilyas labeeb of the newly formed the democrats nominated himself as a candidate for president. 
+
+[('ilyas', 'JJ'), ('labeeb', 'NN'), ('of', 'IN'), ('the', 'DT'), ('newly', 'RB'), ('formed', 'VBN'), ('the', 'DT'), ('democrats', 'NNPS'), ('nominated', 'VBD'), ('himself', 'PRP'), ('as', 'IN'), ('a', 'DT'), ('candidate', 'NN'), ('for', 'IN'), ('president', 'NN'), ('.', '.')]
+
+=========================== Sentence 00014 ===========================
+independents ahmed faris maumoon, son of maumoon abdul gayoom, umar naseer and hassan zameel also announced their candidacies for president. 
+
+[('independents', 'NNS'), ('ahmed', 'VBD'), ('faris', 'JJ'), ('maumoon', 'NN'), (',', ','), ('son', 'NN'), ('of', 'IN'), ('maumoon', 'NN'), ('abdul', 'NN'), ('gayoom', 'NN'), (',', ','), ('umar', 'JJ'), ('naseer', 'NN'), ('and', 'CC'), ('hassan', 'JJ'), ('zameel', 'NN'), ('also', 'RB'), ('announced', 'VBD'), ('their', 'PRP$'), ('candidacies', 'NNS'), ('for', 'IN'), ('president', 'NN'), ('.', '.')]
+
+=========================== Sentence 00015 ===========================
+this presidential election had the most recorded candidates since the first direct contested election in 2008, where six candidates participated. 
+
+[('this', 'DT'), ('presidential', 'JJ'), ('election', 'NN'), ('had', 'VBD'), ('the', 'DT'), ('most', 'RBS'), ('recorded', 'JJ'), ('candidates', 'NNS'), ('since', 'IN'), ('the', 'DT'), ('first', 'JJ'), ('direct', 'JJ'), ('contested', 'VBN'), ('election', 'NN'), ('in', 'IN'), ('2008', 'CD'), (',', ','), ('where', 'WRB'), ('six', 'CD'), ('candidates', 'NNS'), ('participated', 'VBD'), ('.', '.')]
+
+=========================== Sentence 00016 ===========================
+as no candidate received over 50% of the vote in the first round, the top two finishers, muizzu and incumbent solih, moved on to a runoff. 
+
+[('as', 'IN'), ('no', 'DT'), ('candidate', 'NN'), ('received', 'VBD'), ('over', 'RB'), ('50', 'CD'), ('%', 'NN'), ('of', 'IN'), ('the', 'DT'), ('vote', 'NN'), ('in', 'IN'), ('the', 'DT'), ('first', 'JJ'), ('round', 'NN'), (',', ','), ('the', 'DT'), ('top', 'JJ'), ('two', 'CD'), ('finishers', 'NNS'), (',', ','), ('muizzu', 'NN'), ('and', 'CC'), ('incumbent', 'JJ'), ('solih', 'NN'), (',', ','), ('moved', 'VBD'), ('on', 'IN'), ('to', 'TO'), ('a', 'DT'), ('runoff', 'NN'), ('.', '.')]
+
+=========================== Sentence 00017 ===========================
+the maldives has a presidential system of government where the president is both the head of state and government. 
+
+[('the', 'DT'), ('maldives', 'NNS'), ('has', 'VBZ'), ('a', 'DT'), ('presidential', 'JJ'), ('system', 'NN'), ('of', 'IN'), ('government', 'NN'), ('where', 'WRB'), ('the', 'DT'), ('president', 'NN'), ('is', 'VBZ'), ('both', 'DT'), ('the', 'DT'), ('head', 'NN'), ('of', 'IN'), ('state', 'NN'), ('and', 'CC'), ('government', 'NN'), ('.', '.')]
+
+=========================== Sentence 00018 ===========================
+the president is elected via direct-vote every five years and can only be elected for a maximum of two terms, which is the limit allowed by the constitution. 
+
+[('the', 'DT'), ('president', 'NN'), ('is', 'VBZ'), ('elected', 'VBN'), ('via', 'IN'), ('direct-vote', 'JJ'), ('every', 'DT'), ('five', 'CD'), ('years', 'NNS'), ('and', 'CC'), ('can', 'MD'), ('only', 'RB'), ('be', 'VB'), ('elected', 'VBN'), ('for', 'IN'), ('a', 'DT'), ('maximum', 'NN'), ('of', 'IN'), ('two', 'CD'), ('terms', 'NNS'), (',', ','), ('which', 'WDT'), ('is', 'VBZ'), ('the', 'DT'), ('limit', 'NN'), ('allowed', 'VBN'), ('by', 'IN'), ('the', 'DT'), ('constitution', 'NN'), ('.', '.')]
+
+=========================== Sentence 00019 ===========================
+the law and constitution of the maldives grants its citizens the right to vote and run for public office at the age of 18. 
+
+[('the', 'DT'), ('law', 'NN'), ('and', 'CC'), ('constitution', 'NN'), ('of', 'IN'), ('the', 'DT'), ('maldives', 'NNS'), ('grants', 'VBZ'), ('its', 'PRP$'), ('citizens', 'NNS'), ('the', 'DT'), ('right', 'NN'), ('to', 'TO'), ('vote', 'VB'), ('and', 'CC'), ('run', 'VB'), ('for', 'IN'), ('public', 'JJ'), ('office', 'NN'), ('at', 'IN'), ('the', 'DT'), ('age', 'NN'), ('of', 'IN'), ('18', 'CD'), ('.', '.')]
+
+=========================== Sentence 00020 ===========================
+in the elections, the candidate who receives a majority (more than 50%) of the valid votes cast is elected president. 
+
+[('in', 'IN'), ('the', 'DT'), ('elections', 'NNS'), (',', ','), ('the', 'DT'), ('candidate', 'NN'), ('who', 'WP'), ('receives', 'VBZ'), ('a', 'DT'), ('majority', 'NN'), ('(', '('), ('more', 'JJR'), ('than', 'IN'), ('50', 'CD'), ('%', 'NN'), (')', ')'), ('of', 'IN'), ('the', 'DT'), ('valid', 'JJ'), ('votes', 'NNS'), ('cast', 'VBP'), ('is', 'VBZ'), ('elected', 'VBN'), ('president', 'NN'), ('.', '.')]
+
+=========================== Sentence 00021 ===========================
+if no candidate receives an outright majority, the election then proceeds to a runoff (or second round), which are mandated to be held no less than 21 days following the initial election day between the two front runners. 
+
+[('if', 'IN'), ('no', 'DT'), ('candidate', 'NN'), ('receives', 'VBZ'), ('an', 'DT'), ('outright', 'JJ'), ('majority', 'NN'), (',', ','), ('the', 'DT'), ('election', 'NN'), ('then', 'RB'), ('proceeds', 'VBZ'), ('to', 'TO'), ('a', 'DT'), ('runoff', 'NN'), ('(', '('), ('or', 'CC'), ('second', 'VB'), ('round', 'NN'), (')', ')'), (',', ','), ('which', 'WDT'), ('are', 'VBP'), ('mandated', 'VBN'), ('to', 'TO'), ('be', 'VB'), ('held', 'VBN'), ('no', 'DT'), ('less', 'JJR'), ('than', 'IN'), ('21', 'CD'), ('days', 'NNS'), ('following', 'VBG'), ('the', 'DT'), ('initial', 'JJ'), ('election', 'NN'), ('day', 'NN'), ('between', 'IN'), ('the', 'DT'), ('two', 'CD'), ('front', 'JJ'), ('runners', 'NNS'), ('.', '.')]
+
+=========================== Sentence 00022 ===========================
+the candidate who receives the majority of the vote is then elected president. 
+
+[('the', 'DT'), ('candidate', 'NN'), ('who', 'WP'), ('receives', 'VBZ'), ('the', 'DT'), ('majority', 'NN'), ('of', 'IN'), ('the', 'DT'), ('vote', 'NN'), ('is', 'VBZ'), ('then', 'RB'), ('elected', 'VBN'), ('president', 'NN'), ('.', '.')]
+
+=========================== Sentence 00023 ===========================
+the official results are announced by the elections commission and published in the government gazette within seven days of the voting day of the presidential elections. 
+
+[('the', 'DT'), ('official', 'JJ'), ('results', 'NNS'), ('are', 'VBP'), ('announced', 'VBN'), ('by', 'IN'), ('the', 'DT'), ('elections', 'NNS'), ('commission', 'NN'), ('and', 'CC'), ('published', 'VBN'), ('in', 'IN'), ('the', 'DT'), ('government', 'NN'), ('gazette', 'NN'), ('within', 'IN'), ('seven', 'CD'), ('days', 'NNS'), ('of', 'IN'), ('the', 'DT'), ('voting', 'VBG'), ('day', 'NN'), ('of', 'IN'), ('the', 'DT'), ('presidential', 'JJ'), ('elections', 'NNS'), ('.', '.')]
+
+=========================== Sentence 00024 ===========================
+the maldivian democratic party held primary elections to choose its presidential candidate on 28 january 2023. 
+
+[('the', 'DT'), ('maldivian', 'JJ'), ('democratic', 'JJ'), ('party', 'NN'), ('held', 'VBD'), ('primary', 'JJ'), ('elections', 'NNS'), ('to', 'TO'), ('choose', 'VB'), ('its', 'PRP$'), ('presidential', 'JJ'), ('candidate', 'NN'), ('on', 'IN'), ('DATE_000001', 'NNP'), ('.', '.')]
+28 january 2023
+
+=========================== Sentence 00025 ===========================
+nasheed accused solih of trying to rig the presidential primary. 
+
+[('nasheed', 'NN'), ('accused', 'VBD'), ('solih', 'NN'), ('of', 'IN'), ('trying', 'VBG'), ('to', 'TO'), ('rig', 'VB'), ('the', 'DT'), ('presidential', 'JJ'), ('primary', 'NN'), ('.', '.')]
+
+=========================== Sentence 00026 ===========================
+the chairperson of maldivian democratic party, fayyaz ismail, defended the primaries, reiterating that they will be held in accordance with the party constitution. 
+
+[('the', 'DT'), ('chairperson', 'NN'), ('of', 'IN'), ('maldivian', 'JJ'), ('democratic', 'JJ'), ('party', 'NN'), (',', ','), ('fayyaz', 'JJ'), ('ismail', 'NN'), (',', ','), ('defended', 'VBD'), ('the', 'DT'), ('primaries', 'NNS'), (',', ','), ('reiterating', 'VBG'), ('that', 'IN'), ('they', 'PRP'), ('will', 'MD'), ('be', 'VB'), ('held', 'VBN'), ('in', 'IN'), ('accordance', 'NN'), ('with', 'IN'), ('the', 'DT'), ('party', 'NN'), ('constitution', 'NN'), ('.', '.')]
+
+=========================== Sentence 00027 ===========================
+nominated by the progressive party of maldives and people's national congress. 
+
+[('nominated', 'VBN'), ('by', 'IN'), ('the', 'DT'), ('progressive', 'JJ'), ('party', 'NN'), ('of', 'IN'), ('maldives', 'NNS'), ('and', 'CC'), ('people', 'NNS'), ("'s", 'POS'), ('national', 'JJ'), ('congress', 'NN'), ('.', '.')]
+
+=========================== Sentence 00028 ===========================
+however, since the maldivian criminal court sentenced former president yameen to 11 years in prison, it would be a high chance that elections commission would disqualify yameen in the presidential elections. 
+
+[('however', 'RB'), (',', ','), ('since', 'IN'), ('the', 'DT'), ('maldivian', 'JJ'), ('criminal', 'JJ'), ('court', 'NN'), ('sentenced', 'VBD'), ('former', 'JJ'), ('president', 'NN'), ('yameen', 'NN'), ('to', 'TO'), ('11', 'CD'), ('years', 'NNS'), ('in', 'IN'), ('prison', 'NN'), (',', ','), ('it', 'PRP'), ('would', 'MD'), ('be', 'VB'), ('a', 'DT'), ('high', 'JJ'), ('chance', 'NN'), ('that', 'IN'), ('elections', 'NNS'), ('commission', 'NN'), ('would', 'MD'), ('disqualify', 'VB'), ('yameen', 'NN'), ('in', 'IN'), ('the', 'DT'), ('presidential', 'JJ'), ('elections', 'NNS'), ('.', '.')]
+
+=========================== Sentence 00029 ===========================
+nominated by people's national congress's as a 'backup' candidacy. 
+
+[('nominated', 'VBN'), ('by', 'IN'), ('people', 'NNS'), ("'s", 'POS'), ('national', 'JJ'), ('congress', 'NN'), ("'s", 'POS'), ('as', 'IN'), ('a', 'DT'), ("'backup", 'NN'), ("'", 'POS'), ('candidacy', 'NN'), ('.', '.')]
+
+=========================== Sentence 00030 ===========================
+pnc's president abdul raheem said that he would withdraw the candidacy if the maldivian supreme court allowed yameen to compete in the upcoming elections, which ended up not happening. 
+
+[('pnc', 'NN'), ("'s", 'POS'), ('president', 'NN'), ('abdul', 'NN'), ('raheem', 'NN'), ('said', 'VBD'), ('that', 'IN'), ('he', 'PRP'), ('would', 'MD'), ('withdraw', 'VB'), ('the', 'DT'), ('candidacy', 'NN'), ('if', 'IN'), ('the', 'DT'), ('maldivian', 'JJ'), ('supreme', 'NN'), ('court', 'NN'), ('allowed', 'VBD'), ('yameen', 'JJ'), ('to', 'TO'), ('compete', 'VB'), ('in', 'IN'), ('the', 'DT'), ('upcoming', 'JJ'), ('elections', 'NNS'), (',', ','), ('which', 'WDT'), ('ended', 'VBD'), ('up', 'RP'), ('not', 'RB'), ('happening', 'VBG'), ('.', '.')]
+
+=========================== Sentence 00031 ===========================
+nominated by the democrats, a newly formed political party from the rapidly unfolding power struggle between two pivotal figures in the maldivian democratic party — incumbent president ibrahim mohamed solih and former president mohamed nasheed. 
+
+[('nominated', 'VBN'), ('by', 'IN'), ('the', 'DT'), ('democrats', 'NNS'), (',', ','), ('a', 'DT'), ('newly', 'RB'), ('formed', 'VBN'), ('political', 'JJ'), ('party', 'NN'), ('from', 'IN'), ('the', 'DT'), ('rapidly', 'RB'), ('unfolding', 'JJ'), ('power', 'NN'), ('struggle', 'NN'), ('between', 'IN'), ('two', 'CD'), ('pivotal', 'JJ'), ('figures', 'NNS'), ('in', 'IN'), ('the', 'DT'), ('maldivian', 'JJ'), ('democratic', 'JJ'), ('party', 'NN'), ('—', 'JJ'), ('incumbent', 'JJ'), ('president', 'NN'), ('ibrahim', 'NN'), ('mohamed', 'VBD'), ('solih', 'NN'), ('and', 'CC'), ('former', 'JJ'), ('president', 'NN'), ('mohamed', 'VBD'), ('nasheed', 'NN'), ('.', '.')]
+
+=========================== Sentence 00032 ===========================
+finalised by jumhooree party's council meeting. 
+
+[('finalised', 'VBN'), ('by', 'IN'), ('jumhooree', 'JJ'), ('party', 'NN'), ("'s", 'POS'), ('council', 'NN'), ('meeting', 'NN'), ('.', '.')]
+
+=========================== Sentence 00033 ===========================
+nominated by maldives national party. 
+
+[('nominated', 'VBN'), ('by', 'IN'), ('maldives', 'NNS'), ('national', 'JJ'), ('party', 'NN'), ('.', '.')]
+
+=========================== Sentence 00034 ===========================
+nominated by himself as an independent candidate. 
+
+[('nominated', 'VBN'), ('by', 'IN'), ('himself', 'PRP'), ('as', 'IN'), ('an', 'DT'), ('independent', 'JJ'), ('candidate', 'NN'), ('.', '.')]
+
+=========================== Sentence 00035 ===========================
+nominated himself as an independent candidate. 
+
+[('nominated', 'VBN'), ('himself', 'PRP'), ('as', 'IN'), ('an', 'DT'), ('independent', 'JJ'), ('candidate', 'NN'), ('.', '.')]
+
+=========================== Sentence 00036 ===========================
+nominated himself as an independent candidate. 
+
+[('nominated', 'VBN'), ('himself', 'PRP'), ('as', 'IN'), ('an', 'DT'), ('independent', 'JJ'), ('candidate', 'NN'), ('.', '.')]
+
+=========================== Sentence 00037 ===========================
+a key campaign topic was the maldives' position with respect to china and india. 
+
+[('a', 'DT'), ('key', 'JJ'), ('campaign', 'NN'), ('topic', 'NN'), ('was', 'VBD'), ('the', 'DT'), ('maldives', 'NNS'), ("'", 'POS'), ('position', 'NN'), ('with', 'IN'), ('respect', 'NN'), ('to', 'TO'), ('china', 'VB'), ('and', 'CC'), ('india', 'VB'), ('.', '.')]
+
+=========================== Sentence 00038 ===========================
+the incumbent ibrahim mohamed solih campaigned on an "india-first" policy, aiming to strengthen ties with the maldives' geographical and cultural neighbour. 
+
+[('the', 'DT'), ('incumbent', 'JJ'), ('ibrahim', 'NN'), ('mohamed', 'VBD'), ('solih', 'JJ'), ('campaigned', 'VBN'), ('on', 'IN'), ('an', 'DT'), ('``', '``'), ('india-first', 'JJ'), ("''", "''"), ('policy', 'NN'), (',', ','), ('aiming', 'VBG'), ('to', 'TO'), ('strengthen', 'VB'), ('ties', 'NNS'), ('with', 'IN'), ('the', 'DT'), ('maldives', 'NNS'), ("'", 'POS'), ('geographical', 'JJ'), ('and', 'CC'), ('cultural', 'JJ'), ('neighbour', 'NNS'), ('.', '.')]
+
+=========================== Sentence 00039 ===========================
+on the opposite side, mohamed muizzu, adopting the slogan "india out", called for indian military personnel stationed on the archipelago to leave, while campaigning for closer relations with china. 
+
+[('on', 'IN'), ('the', 'DT'), ('opposite', 'JJ'), ('side', 'NN'), (',', ','), ('mohamed', 'VBD'), ('muizzu', 'NN'), (',', ','), ('adopting', 'VBG'), ('the', 'DT'), ('slogan', 'JJ'), ('``', '``'), ('india', 'FW'), ('out', 'RP'), ("''", "''"), (',', ','), ('called', 'VBD'), ('for', 'IN'), ('indian', 'JJ'), ('military', 'JJ'), ('personnel', 'NNS'), ('stationed', 'VBN'), ('on', 'IN'), ('the', 'DT'), ('archipelago', 'NN'), ('to', 'TO'), ('leave', 'VB'), (',', ','), ('while', 'IN'), ('campaigning', 'VBG'), ('for', 'IN'), ('closer', 'NN'), ('relations', 'NNS'), ('with', 'IN'), ('china', 'NN'), ('.', '.')]
+
+=========================== Sentence 00040 ===========================
+this kept in line with the policies of former president abdulla yameen, founder of the people's national congress, under whom the maldives joined china's belt and road initiative. 
+
+[('this', 'DT'), ('kept', 'VBD'), ('in', 'IN'), ('line', 'NN'), ('with', 'IN'), ('the', 'DT'), ('policies', 'NNS'), ('of', 'IN'), ('former', 'JJ'), ('president', 'NN'), ('abdulla', 'NN'), ('yameen', 'NN'), (',', ','), ('founder', 'NN'), ('of', 'IN'), ('the', 'DT'), ('people', 'NNS'), ("'s", 'POS'), ('national', 'JJ'), ('congress', 'NN'), (',', ','), ('under', 'IN'), ('whom', 'WP'), ('the', 'DT'), ('maldives', 'NNS'), ('joined', 'VBD'), ('china', 'NN'), ("'s", 'POS'), ('belt', 'NN'), ('and', 'CC'), ('road', 'NN'), ('initiative', 'NN'), ('.', '.')]
+
+=========================== Sentence 00041 ===========================
+muizzu also campaigned on freeing yameen, at the time serving an 11-year prison sentence for bribery and money laundering, pushing for the former president to be transferred to house arrest. 
+
+[('muizzu', 'NN'), ('also', 'RB'), ('campaigned', 'VBD'), ('on', 'IN'), ('freeing', 'VBG'), ('yameen', 'NN'), (',', ','), ('at', 'IN'), ('the', 'DT'), ('time', 'NN'), ('serving', 'VBG'), ('an', 'DT'), ('11-year', 'JJ'), ('prison', 'NN'), ('sentence', 'NN'), ('for', 'IN'), ('bribery', 'NN'), ('and', 'CC'), ('money', 'NN'), ('laundering', 'NN'), (',', ','), ('pushing', 'VBG'), ('for', 'IN'), ('the', 'DT'), ('former', 'JJ'), ('president', 'NN'), ('to', 'TO'), ('be', 'VB'), ('transferred', 'VBN'), ('to', 'TO'), ('house', 'NN'), ('arrest', 'NN'), ('.', '.')]
+
+=========================== Sentence 00042 ===========================
+jailed on the same island where he arrested several of his political opponents, yameen had requested to be moved home for health reasons two weeks prior to the election's second round. 
+
+[('jailed', 'VBN'), ('on', 'IN'), ('the', 'DT'), ('same', 'JJ'), ('island', 'NN'), ('where', 'WRB'), ('he', 'PRP'), ('arrested', 'VBD'), ('several', 'JJ'), ('of', 'IN'), ('his', 'PRP$'), ('political', 'JJ'), ('opponents', 'NNS'), (',', ','), ('yameen', 'NN'), ('had', 'VBD'), ('requested', 'VBN'), ('to', 'TO'), ('be', 'VB'), ('moved', 'VBN'), ('home', 'NN'), ('for', 'IN'), ('health', 'NN'), ('reasons', 'NNS'), ('two', 'CD'), ('weeks', 'NNS'), ('prior', 'RB'), ('to', 'TO'), ('the', 'DT'), ('election', 'NN'), ("'s", 'POS'), ('second', 'JJ'), ('round', 'NN'), ('.', '.')]
+
+=========================== Sentence 00043 ===========================
+muizzu won 46% of the votes in the first round, compared to 39% for solih. 
+
+[('muizzu', 'NN'), ('won', 'VBD'), ('46', 'CD'), ('%', 'NN'), ('of', 'IN'), ('the', 'DT'), ('votes', 'NNS'), ('in', 'IN'), ('the', 'DT'), ('first', 'JJ'), ('round', 'NN'), (',', ','), ('compared', 'VBN'), ('to', 'TO'), ('39', 'CD'), ('%', 'NN'), ('for', 'IN'), ('solih', 'NN'), ('.', '.')]
+
+=========================== Sentence 00044 ===========================
+media sources attributed this result to rivalry between president solih and former president mohamed nasheed, whose chosen candidate ilyas labeeb won 7%. 
+
+[('media', 'NNS'), ('sources', 'NNS'), ('attributed', 'VBD'), ('this', 'DT'), ('result', 'NN'), ('to', 'TO'), ('rivalry', 'VB'), ('between', 'IN'), ('president', 'NN'), ('solih', 'NN'), ('and', 'CC'), ('former', 'JJ'), ('president', 'NN'), ('mohamed', 'VBD'), ('nasheed', 'JJ'), (',', ','), ('whose', 'WP$'), ('chosen', 'JJ'), ('candidate', 'NN'), ('ilyas', 'NN'), ('labeeb', 'NN'), ('won', 'VBD'), ('7', 'CD'), ('%', 'NN'), ('.', '.')]
+
+=========================== Sentence 00045 ===========================
+as neither muizzu nor solih received an absolute majority of the votes cast, a second round was scheduled for 30 september. 
+
+[('as', 'IN'), ('neither', 'DT'), ('muizzu', 'NN'), ('nor', 'CC'), ('solih', 'NN'), ('received', 'VBD'), ('an', 'DT'), ('absolute', 'JJ'), ('majority', 'NN'), ('of', 'IN'), ('the', 'DT'), ('votes', 'NNS'), ('cast', 'VBD'), (',', ','), ('a', 'DT'), ('second', 'JJ'), ('round', 'NN'), ('was', 'VBD'), ('scheduled', 'VBN'), ('for', 'IN'), ('30', 'CD'), ('september', 'NN'), ('.', '.')]
+
+=========================== Sentence 00046 ===========================
+umar naseer and ahmed faris maumoon did not endorse either candidate for the runoff. 
+
+[('umar', 'JJ'), ('naseer', 'NN'), ('and', 'CC'), ('ahmed', 'VBD'), ('faris', 'JJ'), ('maumoon', 'NN'), ('did', 'VBD'), ('not', 'RB'), ('endorse', 'VB'), ('either', 'RB'), ('candidate', 'NN'), ('for', 'IN'), ('the', 'DT'), ('runoff', 'NN'), ('.', '.')]
+
+=========================== Sentence 00047 ===========================
+mohamed nazim endorsed muizzu. 
+
+[('mohamed', 'VBN'), ('nazim', 'NNS'), ('endorsed', 'VBD'), ('muizzu', 'NN'), ('.', '.')]
+
+=========================== Sentence 00048 ===========================
+while qasim ibrahim asked his supporters to vote as they pleased, his running mate ameen ibrahim and his party secretariat endorsed solih. 
+
+[('while', 'IN'), ('qasim', 'JJ'), ('ibrahim', 'NN'), ('asked', 'VBD'), ('his', 'PRP$'), ('supporters', 'NNS'), ('to', 'TO'), ('vote', 'VB'), ('as', 'IN'), ('they', 'PRP'), ('pleased', 'VBD'), (',', ','), ('his', 'PRP$'), ('running', 'VBG'), ('mate', 'NN'), ('ameen', 'NN'), ('ibrahim', 'NN'), ('and', 'CC'), ('his', 'PRP$'), ('party', 'NN'), ('secretariat', 'NN'), ('endorsed', 'VBD'), ('solih', 'NN'), ('.', '.')]
+
+=========================== Sentence 00049 ===========================
+on the day following the election, mohamed muizzu's demands for the liberation of abdulla yameen were successful, with the former president being transferred to house arrest. 
+
+[('on', 'IN'), ('the', 'DT'), ('day', 'NN'), ('following', 'VBG'), ('the', 'DT'), ('election', 'NN'), (',', ','), ('mohamed', 'VBD'), ('muizzu', 'NN'), ("'s", 'POS'), ('demands', 'NNS'), ('for', 'IN'), ('the', 'DT'), ('liberation', 'NN'), ('of', 'IN'), ('abdulla', 'NN'), ('yameen', 'NN'), ('were', 'VBD'), ('successful', 'JJ'), (',', ','), ('with', 'IN'), ('the', 'DT'), ('former', 'JJ'), ('president', 'NN'), ('being', 'VBG'), ('transferred', 'VBN'), ('to', 'TO'), ('house', 'NN'), ('arrest', 'NN'), ('.', '.')]
+
+=========================== Sentence 00050 ===========================
+^ "maldives to hold 2023 presidential election on september 9". maldives sun. 15 january 2023. archived from the original on 13 february 2023. retrieved 13 february 2023. 
+
+[('^', 'NN'), ('``', '``'), ('maldives', 'NNS'), ('to', 'TO'), ('hold', 'VB'), ('2023', 'CD'), ('presidential', 'JJ'), ('election', 'NN'), ('on', 'IN'), ('september', 'NN'), ('9', 'CD'), ("''", "''"), ('.', '.'), ('maldives', 'NNS'), ('sun', 'VBP'), ('.', '.'), ('DATE_000001', 'NNP'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000002', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000002', 'NNP'), ('.', '.')]
+15 january 2023
+13 february 2023
+13 february 2023
+
+=========================== Sentence 00051 ===========================
+^ junayd, mohamed (2023-01-29). "maldives president solih wins presidential primary, party says". reuters. archived from the original on 2023-03-06. retrieved 2023-03-06. 
+
+[('^', 'NN'), ('junayd', 'NN'), (',', ','), ('mohamed', 'VBN'), ('(', '('), ('DATE_000001', 'NNP'), (')', ')'), ('.', '.'), ('``', '``'), ('maldives', 'NNS'), ('president', 'NN'), ('solih', 'VBP'), ('wins', 'VBZ'), ('presidential', 'JJ'), ('primary', 'NN'), (',', ','), ('party', 'NN'), ('says', 'VBZ'), ("''", "''"), ('.', '.'), ('reuters', 'NNS'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000002', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000002', 'NNP'), ('.', '.')]
+2023-01-29
+2023-01-29 00:00:00
+2023-03-06
+2023-03-06 00:00:00
+2023-03-06
+2023-03-06 00:00:00
+
+=========================== Sentence 00052 ===========================
+^ "maldives opposition candidate mohamed muiz wins the presidential runoff, local media say". ap news. 30 september 2023. archived from the original on 3 october 2023. retrieved 30 september 2023. 
+
+[('^', 'NN'), ('``', '``'), ('maldives', 'VBZ'), ('opposition', 'NN'), ('candidate', 'NN'), ('mohamed', 'VBD'), ('muiz', 'NN'), ('wins', 'VBZ'), ('the', 'DT'), ('presidential', 'JJ'), ('runoff', 'NN'), (',', ','), ('local', 'JJ'), ('media', 'NNS'), ('say', 'VBP'), ("''", "''"), ('.', '.'), ('ap', 'JJ'), ('news', 'NN'), ('.', '.'), ('DATE_000001', 'NNP'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000002', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000001', 'NNP'), ('.', '.')]
+30 september 2023
+3 october 2023
+30 september 2023
+
+=========================== Sentence 00053 ===========================
+^ mohamed, maahil; mashal, mujib (30 september 2023). "maldives president is defeated, in vote overshadowed by india and china". the new york times. archived from the original on 30 september 2023. retrieved 30 september 2023. 
+
+[('^', 'NN'), ('mohamed', 'VBD'), (',', ','), ('maahil', 'NN'), (';', ':'), ('mashal', 'CC'), (',', ','), ('mujib', 'FW'), ('(', '('), ('DATE_000001', 'NNP'), (')', ')'), ('.', '.'), ('``', '``'), ('maldives', 'NNS'), ('president', 'NN'), ('is', 'VBZ'), ('defeated', 'VBN'), (',', ','), ('in', 'IN'), ('vote', 'NN'), ('overshadowed', 'VBN'), ('by', 'IN'), ('india', 'NN'), ('and', 'CC'), ('china', 'NN'), ("''", "''"), ('.', '.'), ('the', 'DT'), ('new', 'JJ'), ('york', 'NN'), ('times', 'NNS'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000001', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000001', 'NNP'), ('.', '.')]
+30 september 2023
+30 september 2023
+30 september 2023
+
+=========================== Sentence 00054 ===========================
+^ radhakrishnan, r. k. (september 5, 2023). "can maldivian president ibu solih defy the odds and secure a second term?". frontline. archived from the original on october 2, 2023. retrieved october 1, 2023. 
+
+[('^', 'NN'), ('radhakrishnan', 'NN'), (',', ','), ('r.', 'NN'), ('k.', 'NN'), ('(', '('), ('DATE_000001', 'NNP'), (')', ')'), ('.', '.'), ('``', '``'), ('can', 'MD'), ('maldivian', 'VB'), ('president', 'NN'), ('ibu', 'NN'), ('solih', 'NN'), ('defy', 'VBZ'), ('the', 'DT'), ('odds', 'NNS'), ('and', 'CC'), ('secure', 'VB'), ('a', 'DT'), ('second', 'JJ'), ('term', 'NN'), ('?', '.'), ("''", "''"), ('.', '.'), ('frontline', 'NN'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000002', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000003', 'NNP'), ('.', '.')]
+september 5, 2023
+2023-09-05 00:00:00
+october 2, 2023
+2023-10-02 00:00:00
+october 1, 2023
+2023-10-01 00:00:00
+
+=========================== Sentence 00055 ===========================
+^ "yameen changes mind, extends support for muizzu". one online. archived from the original on 2023-10-02. retrieved 2023-10-01. 
+
+[('^', 'NN'), ('``', '``'), ('yameen', 'JJ'), ('changes', 'NNS'), ('mind', 'VBP'), (',', ','), ('extends', 'VBZ'), ('support', 'NN'), ('for', 'IN'), ('muizzu', 'NN'), ("''", "''"), ('.', '.'), ('one', 'CD'), ('online', 'NN'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000001', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000002', 'NNP'), ('.', '.')]
+2023-10-02
+2023-10-02 00:00:00
+2023-10-01
+2023-10-01 00:00:00
+
+=========================== Sentence 00056 ===========================
+^ "maldives presidential election to be held on sept 9". avas. archived from the original on 2023-03-06. retrieved 2023-03-06. 
+
+[('^', 'NN'), ('``', '``'), ('maldives', 'VBZ'), ('presidential', 'JJ'), ('election', 'NN'), ('to', 'TO'), ('be', 'VB'), ('held', 'VBN'), ('on', 'IN'), ('sept', 'NN'), ('9', 'CD'), ("''", "''"), ('.', '.'), ('avas', 'NN'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000001', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000001', 'NNP'), ('.', '.')]
+2023-03-06
+2023-03-06 00:00:00
+2023-03-06
+2023-03-06 00:00:00
+
+=========================== Sentence 00057 ===========================
+^ "election commission of maldives". election commission of maldives. archived from the original on 2023-03-06. retrieved 2023-03-06. 
+
+[('^', 'JJ'), ('``', '``'), ('election', 'NN'), ('commission', 'NN'), ('of', 'IN'), ('maldives', 'NNS'), ("''", "''"), ('.', '.'), ('election', 'NN'), ('commission', 'NN'), ('of', 'IN'), ('maldives', 'NNS'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000001', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000001', 'NNP'), ('.', '.')]
+2023-03-06
+2023-03-06 00:00:00
+2023-03-06
+2023-03-06 00:00:00
+
+=========================== Sentence 00058 ===========================
+^ rehan, mohamed (2022-12-18). "mdp presidential primary to be held on january 28, 2023". the edition. archived from the original on 2022-12-21. retrieved 2022-12-21. 
+
+[('^', 'NN'), ('rehan', 'NN'), (',', ','), ('mohamed', 'VBN'), ('(', '('), ('DATE_000001', 'NNP'), (')', ')'), ('.', '.'), ('``', '``'), ('mdp', 'JJ'), ('presidential', 'JJ'), ('primary', 'NN'), ('to', 'TO'), ('be', 'VB'), ('held', 'VBN'), ('on', 'IN'), ('DATE_000002', 'NNP'), ("''", "''"), ('.', '.'), ('the', 'DT'), ('edition', 'NN'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000003', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000003', 'NNP'), ('.', '.')]
+2022-12-18
+2022-12-18 00:00:00
+january 28, 2023
+2023-01-28 00:00:00
+2022-12-21
+2022-12-21 00:00:00
+2022-12-21
+2022-12-21 00:00:00
+
+=========================== Sentence 00059 ===========================
+^ "mdp's registry is rigged, primary election will not be fair: nasheed". the edition. archived from the original on 2022-12-21. retrieved 2022-12-21. 
+
+[('^', 'NN'), ('``', '``'), ('mdp', 'NN'), ("'s", 'POS'), ('registry', 'NN'), ('is', 'VBZ'), ('rigged', 'VBN'), (',', ','), ('primary', 'JJ'), ('election', 'NN'), ('will', 'MD'), ('not', 'RB'), ('be', 'VB'), ('fair', 'JJ'), (':', ':'), ('nasheed', 'NN'), ("''", "''"), ('.', '.'), ('the', 'DT'), ('edition', 'NN'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000001', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000001', 'NNP'), ('.', '.')]
+2022-12-21
+2022-12-21 00:00:00
+2022-12-21
+2022-12-21 00:00:00
+
+=========================== Sentence 00060 ===========================
+^ "mdp responds to nasheed's concerns regarding party register". avas. archived from the original on 2022-12-20. retrieved 2022-12-21. 
+
+[('^', 'NN'), ('``', '``'), ('mdp', 'JJ'), ('responds', 'VBZ'), ('to', 'TO'), ('nasheed', 'VB'), ("'s", 'POS'), ('concerns', 'NNS'), ('regarding', 'VBG'), ('party', 'NN'), ('register', 'NN'), ("''", "''"), ('.', '.'), ('avas', 'NN'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000001', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000002', 'NNP'), ('.', '.')]
+2022-12-20
+2022-12-20 00:00:00
+2022-12-21
+2022-12-21 00:00:00
+
+=========================== Sentence 00061 ===========================
+^ "president solih announces candidacy for 2023 presidency". the times of addu. 2022-06-08. archived from the original on 2022-12-21. retrieved 2022-12-21. 
+
+[('^', 'JJ'), ('``', '``'), ('president', 'NN'), ('solih', 'JJ'), ('announces', 'NNS'), ('candidacy', 'NN'), ('for', 'IN'), ('2023', 'CD'), ('presidency', 'NN'), ("''", "''"), ('.', '.'), ('the', 'DT'), ('times', 'NNS'), ('of', 'IN'), ('addu', 'NN'), ('.', '.'), ('DATE_000001', 'NNP'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000002', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000002', 'NNP'), ('.', '.')]
+2022-06-08
+2022-06-08 00:00:00
+2022-12-21
+2022-12-21 00:00:00
+2022-12-21
+2022-12-21 00:00:00
+
+=========================== Sentence 00062 ===========================
+^ mohamed, naizak (2022-12-18). "nasheed announces intention to run in mdp's primary". sunonline international. archived from the original on 2022-12-21. retrieved 2022-12-21. 
+
+[('^', 'NN'), ('mohamed', 'VBD'), (',', ','), ('naizak', 'FW'), ('(', '('), ('DATE_000001', 'NNP'), (')', ')'), ('.', '.'), ('``', '``'), ('nasheed', 'JJ'), ('announces', 'NNS'), ('intention', 'NN'), ('to', 'TO'), ('run', 'VB'), ('in', 'IN'), ('mdp', 'NN'), ("'s", 'POS'), ('primary', 'JJ'), ("''", "''"), ('.', '.'), ('sunonline', 'JJ'), ('international', 'JJ'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000002', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000002', 'NNP'), ('.', '.')]
+2022-12-18
+2022-12-18 00:00:00
+2022-12-21
+2022-12-21 00:00:00
+2022-12-21
+2022-12-21 00:00:00
+
+=========================== Sentence 00063 ===========================
+^ "prez ibrahim solih wins maldivian democratic party presidential primary, gets ticket". theprint. 28 january 2023. archived from the original on 4 october 2023. retrieved 29 january 2023. 
+
+[('^', 'NN'), ('``', '``'), ('prez', 'JJ'), ('ibrahim', 'NN'), ('solih', 'NN'), ('wins', 'VBZ'), ('maldivian', 'JJ'), ('democratic', 'JJ'), ('party', 'NN'), ('presidential', 'JJ'), ('primary', 'NN'), (',', ','), ('gets', 'VBZ'), ('ticket', 'NN'), ("''", "''"), ('.', '.'), ('theprint', 'NN'), ('.', '.'), ('DATE_000001', 'NNP'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000002', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000003', 'NNP'), ('.', '.')]
+28 january 2023
+4 october 2023
+29 january 2023
+
+=========================== Sentence 00064 ===========================
+^ rehan, mohamed (1 august 2022). "ppm/pnc nominates yameen as presidential candidate". the edition. archived from the original on 21 december 2022. retrieved 21 december 2022. 
+
+[('^', 'NN'), ('rehan', 'NN'), (',', ','), ('mohamed', 'VBN'), ('(', '('), ('DATE_000001', 'NNP'), (')', ')'), ('.', '.'), ('``', '``'), ('ppm/pnc', 'JJ'), ('nominates', 'VBZ'), ('yameen', 'JJ'), ('as', 'IN'), ('presidential', 'JJ'), ('candidate', 'NN'), ("''", "''"), ('.', '.'), ('the', 'DT'), ('edition', 'NN'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000002', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000002', 'NNP'), ('.', '.')]
+1 august 2022
+21 december 2022
+21 december 2022
+
+=========================== Sentence 00065 ===========================
+^ ""ppm's presidential candidate for 2023 will be ex-president yameen"". south asia monitor. 2020-07-17. archived from the original on 2022-12-21. retrieved 2022-12-21. 
+
+[('^', 'NN'), ('``', '``'), ("''", "''"), ('ppm', 'NN'), ("'s", 'POS'), ('presidential', 'JJ'), ('candidate', 'NN'), ('for', 'IN'), ('2023', 'CD'), ('will', 'MD'), ('be', 'VB'), ('ex-president', 'JJ'), ('yameen', 'NN'), ("''", "''"), ("''", "''"), ('.', '.'), ('south', 'JJ'), ('asia', 'JJ'), ('monitor', 'NN'), ('.', '.'), ('DATE_000001', 'NNP'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000002', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000002', 'NNP'), ('.', '.')]
+2020-07-17
+2020-07-17 00:00:00
+2022-12-21
+2022-12-21 00:00:00
+2022-12-21
+2022-12-21 00:00:00
+
+=========================== Sentence 00066 ===========================
+^ "maldives former president yameen gets 11-year jail term". reuters. 2022-12-25. archived from the original on 2023-08-16. retrieved 2023-07-18. 
+
+[('^', 'NN'), ('``', '``'), ('maldives', 'NNS'), ('former', 'JJ'), ('president', 'NN'), ('yameen', 'JJ'), ('gets', 'VBZ'), ('11-year', 'JJ'), ('jail', 'NN'), ('term', 'NN'), ("''", "''"), ('.', '.'), ('reuters', 'NNS'), ('.', '.'), ('DATE_000001', 'NNP'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000002', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000003', 'NNP'), ('.', '.')]
+2022-12-25
+2022-12-25 00:00:00
+2023-08-16
+2023-08-16 00:00:00
+2023-07-18
+2023-07-18 00:00:00
+
+=========================== Sentence 00067 ===========================
+^ "dr. muizzu announced as pnc's presidential candidate". the edition. archived from the original on 2023-08-03. retrieved 2023-08-03. 
+
+[('^', 'VB'), ('``', '``'), ('dr.', 'JJ'), ('muizzu', 'NN'), ('announced', 'VBD'), ('as', 'IN'), ('pnc', 'NN'), ("'s", 'POS'), ('presidential', 'JJ'), ('candidate', 'NN'), ("''", "''"), ('.', '.'), ('the', 'DT'), ('edition', 'NN'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000001', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000001', 'NNP'), ('.', '.')]
+2023-08-03
+2023-08-03 00:00:00
+2023-08-03
+2023-08-03 00:00:00
+
+=========================== Sentence 00068 ===========================
+^ "muizz wins pnc ticket to contest as yameen's 'backup' candidate". atolltimes.mv. 2023-08-03. archived from the original on 2023-08-03. retrieved 2023-08-15. 
+
+[('^', 'NN'), ('``', '``'), ('muizz', 'JJ'), ('wins', 'NNS'), ('pnc', 'VBP'), ('ticket', 'NN'), ('to', 'TO'), ('contest', 'VB'), ('as', 'IN'), ('yameen', 'NN'), ("'s", 'POS'), ("'backup", 'NN'), ("'", "''"), ('candidate', 'NN'), ("''", "''"), ('.', '.'), ('atolltimes.mv', 'NN'), ('.', '.'), ('DATE_000001', 'NNP'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000001', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000003', 'NNP'), ('.', '.')]
+2023-08-03
+2023-08-03 00:00:00
+2023-08-03
+2023-08-03 00:00:00
+2023-08-15
+2023-08-15 00:00:00
+
+=========================== Sentence 00069 ===========================
+^ "malé city council - mayor". malecity.gov.mv. archived from the original on 2023-03-30. retrieved 2023-08-06. 
+
+[('^', 'NN'), ('``', '``'), ('malé', 'JJ'), ('city', 'NN'), ('council', 'NN'), ('-', ':'), ('mayor', 'NN'), ("''", "''"), ('.', '.'), ('malecity.gov.mv', 'NN'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000001', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000002', 'NNP'), ('.', '.')]
+2023-03-30
+2023-03-30 00:00:00
+2023-08-06
+2023-08-06 00:00:00
+
+=========================== Sentence 00070 ===========================
+^ inaan, ibrahim (august 3, 2023). "dr muizzu wins pnc presidential ticket". archived from the original on october 4, 2023. retrieved october 2, 2023. 
+
+[('^', 'NN'), ('inaan', 'NN'), (',', ','), ('ibrahim', 'NN'), ('(', '('), ('DATE_000001', 'NNP'), (')', ')'), ('.', '.'), ('``', '``'), ('dr', 'JJ'), ('muizzu', 'NN'), ('wins', 'VBZ'), ('pnc', 'JJ'), ('presidential', 'JJ'), ('ticket', 'NN'), ("''", "''"), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000002', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000003', 'NNP'), ('.', '.')]
+august 3, 2023
+2023-08-03 00:00:00
+october 4, 2023
+2023-10-04 00:00:00
+october 2, 2023
+2023-10-02 00:00:00
+
+=========================== Sentence 00071 ===========================
+^ junayd, mohamed (2023-08-06). "maldives supreme court bars jailed ex-president yameen from race". reuters. archived from the original on 2023-08-07. retrieved 2023-08-15. 
+
+[('^', 'NN'), ('junayd', 'NN'), (',', ','), ('mohamed', 'VBN'), ('(', '('), ('DATE_000001', 'NNP'), (')', ')'), ('.', '.'), ('``', '``'), ('maldives', 'NNS'), ('supreme', 'JJ'), ('court', 'NN'), ('bars', 'NNS'), ('jailed', 'VBD'), ('ex-president', 'JJ'), ('yameen', 'NN'), ('from', 'IN'), ('race', 'NN'), ("''", "''"), ('.', '.'), ('reuters', 'NNS'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000002', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000003', 'NNP'), ('.', '.')]
+2023-08-06
+2023-08-06 00:00:00
+2023-08-07
+2023-08-07 00:00:00
+2023-08-15
+2023-08-15 00:00:00
+
+=========================== Sentence 00072 ===========================
+^ ghafoor, mimrah abdul (2023-06-14). "will 'the democrats' reconfigure the maldives' political landscape?". south asian voices. archived from the original on 2023-07-26. retrieved 2023-07-26. 
+
+[('^', 'JJ'), ('ghafoor', 'NN'), (',', ','), ('mimrah', 'NN'), ('abdul', 'NN'), ('(', '('), ('DATE_000001', 'NNP'), (')', ')'), ('.', '.'), ('``', '``'), ('will', 'MD'), ("'the", 'VB'), ('democrats', 'NNS'), ("'", 'POS'), ('reconfigure', 'NN'), ('the', 'DT'), ('maldives', 'NNS'), ("'", 'POS'), ('political', 'JJ'), ('landscape', 'NN'), ('?', '.'), ("''", "''"), ('.', '.'), ('south', 'JJ'), ('asian', 'JJ'), ('voices', 'NNS'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000002', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000002', 'NNP'), ('.', '.')]
+2023-06-14
+2023-06-14 00:00:00
+2023-07-26
+2023-07-26 00:00:00
+2023-07-26
+2023-07-26 00:00:00
+
+=========================== Sentence 00073 ===========================
+^ "members – people's majlis of maldives". majlis.gov.mv. archived from the original on 2023-07-26. retrieved 2023-07-26. 
+
+[('^', 'IN'), ('``', '``'), ('members', 'NNS'), ('–', 'VBP'), ('people', 'NNS'), ("'s", 'POS'), ('majlis', 'NN'), ('of', 'IN'), ('maldives', 'NNS'), ("''", "''"), ('.', '.'), ('majlis.gov.mv', 'NN'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000001', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000001', 'NNP'), ('.', '.')]
+2023-07-26
+2023-07-26 00:00:00
+2023-07-26
+2023-07-26 00:00:00
+
+=========================== Sentence 00074 ===========================
+^ "video story – riyaasee vaahaka: democrats ge riyaasee candidate ilyas labeeb | dhauru". dhauru.com (in divehi). archived from the original on 2023-07-26. retrieved 2023-07-26. 
+
+[('^', 'NN'), ('``', '``'), ('video', 'JJ'), ('story', 'NN'), ('–', 'NNP'), ('riyaasee', 'NN'), ('vaahaka', 'NN'), (':', ':'), ('democrats', 'NNS'), ('ge', 'VBP'), ('riyaasee', 'VBP'), ('candidate', 'JJ'), ('ilyas', 'NN'), ('labeeb', 'NN'), ('|', 'FW'), ('dhauru', 'NN'), ("''", "''"), ('.', '.'), ('dhauru.com', 'NN'), ('(', '('), ('in', 'IN'), ('divehi', 'NN'), (')', ')'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000001', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000001', 'NNP'), ('.', '.')]
+2023-07-26
+2023-07-26 00:00:00
+2023-07-26
+2023-07-26 00:00:00
+
+=========================== Sentence 00075 ===========================
+^ "qasim to run as a candidate for election". maldives voice. 15 march 2023. archived from the original on 15 march 2023. retrieved 15 march 2023. 
+
+[('^', 'NN'), ('``', '``'), ('qasim', 'NN'), ('to', 'TO'), ('run', 'VB'), ('as', 'IN'), ('a', 'DT'), ('candidate', 'NN'), ('for', 'IN'), ('election', 'NN'), ("''", "''"), ('.', '.'), ('maldives', 'NNS'), ('voice', 'NN'), ('.', '.'), ('DATE_000001', 'NNP'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000001', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000001', 'NNP'), ('.', '.')]
+15 march 2023
+15 march 2023
+15 march 2023
+
+=========================== Sentence 00076 ===========================
+^ "ކުއްލި ޚަބަރު: ރިޔާސީ އިންތިޚާބުގައި ޖުމްހޫރީ ޕާޓީން ވާދަކުރަން ނިންމައިފި". vnews. 14 march 2023. archived from the original on 15 march 2023. retrieved 15 march 2023. 
+
+[('^', 'NN'), ('``', '``'), ('ކުއްލި', 'JJ'), ('ޚަބަރު', 'NN'), (':', ':'), ('ރިޔާސީ', 'JJ'), ('އިންތިޚާބުގައި', 'NNP'), ('ޖުމްހޫރީ', 'NNP'), ('ޕާޓީން', 'NNP'), ('ވާދަކުރަން', 'NNP'), ('ނިންމައިފި', 'NNP'), ("''", "''"), ('.', '.'), ('vnews', 'NNS'), ('.', '.'), ('DATE_000001', 'NNP'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000002', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000002', 'NNP'), ('.', '.')]
+14 march 2023
+15 march 2023
+15 march 2023
+
+=========================== Sentence 00077 ===========================
+^ "mp nazim wins mnp presidential ticket by default". the edition. archived from the original on 2022-12-21. retrieved 2022-12-21. 
+
+[('^', 'NN'), ('``', '``'), ('mp', 'JJ'), ('nazim', 'NN'), ('wins', 'VBZ'), ('mnp', 'JJ'), ('presidential', 'JJ'), ('ticket', 'NN'), ('by', 'IN'), ('default', 'NN'), ("''", "''"), ('.', '.'), ('the', 'DT'), ('edition', 'NN'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000001', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000001', 'NNP'), ('.', '.')]
+2022-12-21
+2022-12-21 00:00:00
+2022-12-21
+2022-12-21 00:00:00
+
+=========================== Sentence 00078 ===========================
+^ "former defense minister announce possible presidential run". the edition. archived from the original on 2022-12-21. retrieved 2022-12-21. 
+
+[('^', 'NN'), ('``', '``'), ('former', 'JJ'), ('defense', 'NN'), ('minister', 'NN'), ('announce', 'NN'), ('possible', 'JJ'), ('presidential', 'JJ'), ('run', 'NN'), ("''", "''"), ('.', '.'), ('the', 'DT'), ('edition', 'NN'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000001', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000001', 'NNP'), ('.', '.')]
+2022-12-21
+2022-12-21 00:00:00
+2022-12-21
+2022-12-21 00:00:00
+
+=========================== Sentence 00079 ===========================
+^ "mrm prepared to contest presidential election without coalition, says faris". the edition. archived from the original on 2023-07-26. retrieved 2023-07-26. 
+
+[('^', 'NN'), ('``', '``'), ('mrm', 'NN'), ('prepared', 'VBD'), ('to', 'TO'), ('contest', 'VB'), ('presidential', 'JJ'), ('election', 'NN'), ('without', 'IN'), ('coalition', 'NN'), (',', ','), ('says', 'VBZ'), ('faris', 'NN'), ("''", "''"), ('.', '.'), ('the', 'DT'), ('edition', 'NN'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000001', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000001', 'NNP'), ('.', '.')]
+2023-07-26
+2023-07-26 00:00:00
+2023-07-26
+2023-07-26 00:00:00
+
+=========================== Sentence 00080 ===========================
+^ "faris maumoon contesting in presidential elections". sunonline international. 2023-07-23. archived from the original on 2023-07-26. retrieved 2023-07-26. 
+
+[('^', 'NN'), ('``', '``'), ('faris', 'JJ'), ('maumoon', 'NN'), ('contesting', 'VBG'), ('in', 'IN'), ('presidential', 'JJ'), ('elections', 'NNS'), ("''", "''"), ('.', '.'), ('sunonline', 'JJ'), ('international', 'JJ'), ('.', '.'), ('DATE_000001', 'NNP'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000002', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000002', 'NNP'), ('.', '.')]
+2023-07-23
+2023-07-23 00:00:00
+2023-07-26
+2023-07-26 00:00:00
+2023-07-26
+2023-07-26 00:00:00
+
+=========================== Sentence 00081 ===========================
+^ "ex-home minister announces presidential bid | atoll times". atolltimes.mv. archived from the original on 2023-07-26. retrieved 2023-07-26. 
+
+[('^', 'JJ'), ('``', '``'), ('ex-home', 'JJ'), ('minister', 'NN'), ('announces', 'NNS'), ('presidential', 'JJ'), ('bid', 'NN'), ('|', 'NNP'), ('atoll', 'NN'), ('times', 'NNS'), ("''", "''"), ('.', '.'), ('atolltimes.mv', 'NN'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000001', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000001', 'NNP'), ('.', '.')]
+2023-07-26
+2023-07-26 00:00:00
+2023-07-26
+2023-07-26 00:00:00
+
+=========================== Sentence 00082 ===========================
+^ "umar naseer announces presidential bid to take maldives in "a new direction"". the edition. archived from the original on 2023-07-26. retrieved 2023-07-26. 
+
+[('^', 'NN'), ('``', '``'), ('umar', 'JJ'), ('naseer', 'NN'), ('announces', 'NNS'), ('presidential', 'JJ'), ('bid', 'NN'), ('to', 'TO'), ('take', 'VB'), ('maldives', 'NNS'), ('in', 'IN'), ('``', '``'), ('a', 'DT'), ('new', 'JJ'), ('direction', 'NN'), ("''", "''"), ("''", "''"), ('.', '.'), ('the', 'DT'), ('edition', 'NN'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000001', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000001', 'NNP'), ('.', '.')]
+2023-07-26
+2023-07-26 00:00:00
+2023-07-26
+2023-07-26 00:00:00
+
+=========================== Sentence 00083 ===========================
+^ "zameel files candidacy, picks wife as running mate". sun.mv. archived from the original on 2023-08-07. retrieved 2023-08-07. 
+
+[('^', 'NN'), ('``', '``'), ('zameel', 'NN'), ('files', 'NNS'), ('candidacy', 'NN'), (',', ','), ('picks', 'VBZ'), ('wife', 'NN'), ('as', 'IN'), ('running', 'VBG'), ('mate', 'NN'), ("''", "''"), ('.', '.'), ('sun.mv', 'NN'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000001', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000001', 'NNP'), ('.', '.')]
+2023-08-07
+2023-08-07 00:00:00
+2023-08-07
+2023-08-07 00:00:00
+
+=========================== Sentence 00084 ===========================
+^ france-presse, agence (30 september 2023). "pro-china candidate mohamed muizzu wins maldives presidency, upending relationship with india". the guardian. archived from the original on 1 october 2023. retrieved 1 october 2023. 
+
+[('^', 'JJ'), ('france-presse', 'NN'), (',', ','), ('agence', 'NN'), ('(', '('), ('DATE_000001', 'NNP'), (')', ')'), ('.', '.'), ('``', '``'), ('pro-china', 'JJ'), ('candidate', 'NN'), ('mohamed', 'VBD'), ('muizzu', 'JJ'), ('wins', 'NNS'), ('maldives', 'NNS'), ('presidency', 'NN'), (',', ','), ('upending', 'VBG'), ('relationship', 'NN'), ('with', 'IN'), ('india', 'NN'), ("''", "''"), ('.', '.'), ('the', 'DT'), ('guardian', 'JJ'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000002', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000002', 'NNP'), ('.', '.')]
+30 september 2023
+1 october 2023
+1 october 2023
+
+=========================== Sentence 00085 ===========================
+^ "maldives presidential election heading for 2nd round after no clear winner emerges". ap news. 2023-09-09. archived from the original on 2023-10-06. retrieved 2023-10-06. 
+
+[('^', 'NN'), ('``', '``'), ('maldives', 'VBZ'), ('presidential', 'JJ'), ('election', 'NN'), ('heading', 'VBG'), ('for', 'IN'), ('2nd', 'CD'), ('round', 'NN'), ('after', 'IN'), ('no', 'DT'), ('clear', 'JJ'), ('winner', 'NN'), ('emerges', 'NNS'), ("''", "''"), ('.', '.'), ('ap', 'JJ'), ('news', 'NN'), ('.', '.'), ('DATE_000001', 'NNP'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000002', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000002', 'NNP'), ('.', '.')]
+2023-09-09
+2023-09-09 00:00:00
+2023-10-06
+2023-10-06 00:00:00
+2023-10-06
+2023-10-06 00:00:00
+
+=========================== Sentence 00086 ===========================
+^ "umar naseer decides not to endorse any candidate for second round". avas.mv. 22 september 2023. archived from the original on 2023-10-05. retrieved 2023-10-07. 
+
+[('^', 'NN'), ('``', '``'), ('umar', 'JJ'), ('naseer', 'NN'), ('decides', 'VBZ'), ('not', 'RB'), ('to', 'TO'), ('endorse', 'VB'), ('any', 'DT'), ('candidate', 'NN'), ('for', 'IN'), ('second', 'JJ'), ('round', 'NN'), ("''", "''"), ('.', '.'), ('avas.mv', 'NN'), ('.', '.'), ('DATE_000001', 'NNP'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000002', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000003', 'NNP'), ('.', '.')]
+22 september 2023
+2023-10-05
+2023-10-05 00:00:00
+2023-10-07
+2023-10-07 00:00:00
+
+=========================== Sentence 00087 ===========================
+^ "mrm chooses not to support any candidate in second round of presidential election". avas.mv. 20 september 2023. archived from the original on 2023-10-02. retrieved 2023-10-07. 
+
+[('^', 'NN'), ('``', '``'), ('mrm', 'JJ'), ('chooses', 'VBZ'), ('not', 'RB'), ('to', 'TO'), ('support', 'VB'), ('any', 'DT'), ('candidate', 'NN'), ('in', 'IN'), ('second', 'JJ'), ('round', 'NN'), ('of', 'IN'), ('presidential', 'JJ'), ('election', 'NN'), ("''", "''"), ('.', '.'), ('avas.mv', 'NN'), ('.', '.'), ('DATE_000001', 'NNP'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000002', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000003', 'NNP'), ('.', '.')]
+20 september 2023
+2023-10-02
+2023-10-02 00:00:00
+2023-10-07
+2023-10-07 00:00:00
+
+=========================== Sentence 00088 ===========================
+^ "mnp endorses dr.muizzu for presidential runoff". avas.mv. 12 september 2023. archived from the original on 2023-10-02. retrieved 2023-10-07. 
+
+[('^', 'NN'), ('``', '``'), ('mnp', 'JJ'), ('endorses', 'VBZ'), ('dr.muizzu', 'NN'), ('for', 'IN'), ('presidential', 'JJ'), ('runoff', 'NN'), ("''", "''"), ('.', '.'), ('avas.mv', 'NN'), ('.', '.'), ('DATE_000001', 'NNP'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000002', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000003', 'NNP'), ('.', '.')]
+12 september 2023
+2023-10-02
+2023-10-02 00:00:00
+2023-10-07
+2023-10-07 00:00:00
+
+=========================== Sentence 00089 ===========================
+^ "jp members can vote for the candidate of their choice: qasim". avas.mv. 18 september 2023. archived from the original on 2023-10-02. retrieved 2023-10-07. 
+
+[('^', 'NN'), ('``', '``'), ('jp', 'JJ'), ('members', 'NNS'), ('can', 'MD'), ('vote', 'VB'), ('for', 'IN'), ('the', 'DT'), ('candidate', 'NN'), ('of', 'IN'), ('their', 'PRP$'), ('choice', 'NN'), (':', ':'), ('qasim', 'NN'), ("''", "''"), ('.', '.'), ('avas.mv', 'NN'), ('.', '.'), ('DATE_000001', 'NNP'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000002', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000003', 'NNP'), ('.', '.')]
+18 september 2023
+2023-10-02
+2023-10-02 00:00:00
+2023-10-07
+2023-10-07 00:00:00
+
+=========================== Sentence 00090 ===========================
+^ "jp candidate's running mate and council members endorse pres solih". avas.mv. 24 september 2023. archived from the original on 2023-09-25. retrieved 2023-10-07. 
+
+[('^', 'NN'), ('``', '``'), ('jp', 'JJ'), ('candidate', 'NN'), ("'s", 'POS'), ('running', 'NN'), ('mate', 'NN'), ('and', 'CC'), ('council', 'NN'), ('members', 'NNS'), ('endorse', 'VBP'), ('pres', 'NNS'), ('solih', 'JJ'), ("''", "''"), ('.', '.'), ('avas.mv', 'NN'), ('.', '.'), ('DATE_000001', 'NNP'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000002', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000003', 'NNP'), ('.', '.')]
+24 september 2023
+2023-09-25
+2023-09-25 00:00:00
+2023-10-07
+2023-10-07 00:00:00
+
+=========================== Sentence 00091 ===========================
+^ "pro-china opposition candidate mohamed muizzu wins maldives presidential election". abc news. october 2023. archived from the original on 2023-10-01. retrieved 2023-10-01. 
+
+[('^', 'JJ'), ('``', '``'), ('pro-china', 'JJ'), ('opposition', 'NN'), ('candidate', 'NN'), ('mohamed', 'VBD'), ('muizzu', 'JJ'), ('wins', 'NNS'), ('maldives', 'VBZ'), ('presidential', 'JJ'), ('election', 'NN'), ("''", "''"), ('.', '.'), ('abc', 'JJ'), ('news', 'NN'), ('.', '.'), ('october', 'VB'), ('2023.', 'CD'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000001', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000001', 'NNP'), ('.', '.')]
+2023-10-01
+2023-10-01 00:00:00
+2023-10-01
+2023-10-01 00:00:00
+
+=========================== Sentence 00092 ===========================
+^ "china's president xi jinping congratulates maldivian president-elect dr. muizzu". archived from the original on 2023-10-04. retrieved 2023-10-03. 
+
+[('^', 'JJ'), ('``', '``'), ('china', 'NN'), ("'s", 'POS'), ('president', 'NN'), ('xi', 'NNP'), ('jinping', 'NN'), ('congratulates', 'NNS'), ('maldivian', 'JJ'), ('president-elect', 'JJ'), ('dr.', 'NN'), ('muizzu', 'NN'), ("''", "''"), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000001', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000002', 'NNP'), ('.', '.')]
+2023-10-04
+2023-10-04 00:00:00
+2023-10-03
+2023-10-03 00:00:00
+
+=========================== Sentence 00093 ===========================
+^ "1st ld writethru: xi congratulates muizzu on election as maldives president-xinhua". archived from the original on 2023-10-04. retrieved 2023-10-03. 
+
+[('^', 'NN'), ('``', '``'), ('1st', 'CD'), ('ld', 'JJ'), ('writethru', 'NN'), (':', ':'), ('xi', 'NN'), ('congratulates', 'VBZ'), ('muizzu', 'NNS'), ('on', 'IN'), ('election', 'NN'), ('as', 'IN'), ('maldives', 'NNS'), ('president-xinhua', 'JJ'), ("''", "''"), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000001', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000002', 'NNP'), ('.', '.')]
+2023-10-04
+2023-10-04 00:00:00
+2023-10-03
+2023-10-03 00:00:00
+
+=========================== Sentence 00094 ===========================
+^ "hrh crown prince congratulates dr. mohamed muiz on winning presidential elections of the maldives". spa.gov.sa. archived from the original on 2023-09-28. retrieved 2023-10-02. 
+
+[('^', 'NN'), ('``', '``'), ('hrh', 'JJ'), ('crown', 'JJ'), ('prince', 'NN'), ('congratulates', 'NNS'), ('dr.', 'VBP'), ('mohamed', 'VBN'), ('muiz', 'NN'), ('on', 'IN'), ('winning', 'VBG'), ('presidential', 'JJ'), ('elections', 'NNS'), ('of', 'IN'), ('the', 'DT'), ('maldives', 'NNS'), ("''", "''"), ('.', '.'), ('spa.gov.sa', 'NN'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000001', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000002', 'NNP'), ('.', '.')]
+2023-09-28
+2023-09-28 00:00:00
+2023-10-02
+2023-10-02 00:00:00
+
+=========================== Sentence 00095 ===========================
+^ "custodian of the two holy mosques congratulates dr. mohamed muiz on winning presidential elections of the maldives". spa.gov.sa. archived from the original on 2023-09-28. retrieved 2023-10-02. 
+
+[('^', 'NN'), ('``', '``'), ('custodian', 'NN'), ('of', 'IN'), ('the', 'DT'), ('two', 'CD'), ('holy', 'NN'), ('mosques', 'NNS'), ('congratulates', 'VBZ'), ('dr.', 'NNS'), ('mohamed', 'VBD'), ('muiz', 'NN'), ('on', 'IN'), ('winning', 'VBG'), ('presidential', 'JJ'), ('elections', 'NNS'), ('of', 'IN'), ('the', 'DT'), ('maldives', 'NNS'), ("''", "''"), ('.', '.'), ('spa.gov.sa', 'NN'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000001', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000002', 'NNP'), ('.', '.')]
+2023-09-28
+2023-09-28 00:00:00
+2023-10-02
+2023-10-02 00:00:00
+
+=========================== Sentence 00096 ===========================
+^ https://twitter.com/georgiamaldives/status/1708396730985939106 
+
+[('^', 'JJ'), ('https', 'NN'), (':', ':'), ('//twitter.com/georgiamaldives/status/1708396730985939106', 'NN')]
+
+=========================== Sentence 00097 ===========================
+^ "president ranil congratulates new maldivian president; hopes for stronger bilateral ties". www.adaderana.lk. archived from the original on 2023-10-04. retrieved 2023-10-01. 
+
+[('^', 'JJ'), ('``', '``'), ('president', 'NN'), ('ranil', 'VB'), ('congratulates', 'VBZ'), ('new', 'JJ'), ('maldivian', 'JJ'), ('president', 'NN'), (';', ':'), ('hopes', 'VBZ'), ('for', 'IN'), ('stronger', 'JJR'), ('bilateral', 'JJ'), ('ties', 'NNS'), ("''", "''"), ('.', '.'), ('www.adaderana.lk', 'NN'), ('.', '.'), ('archived', 'VBN'), ('from', 'IN'), ('the', 'DT'), ('original', 'JJ'), ('on', 'IN'), ('DATE_000001', 'NNP'), ('.', '.'), ('retrieved', 'VBN'), ('DATE_000002', 'NNP'), ('.', '.')]
+2023-10-04
+2023-10-04 00:00:00
+2023-10-01
+2023-10-01 00:00:00

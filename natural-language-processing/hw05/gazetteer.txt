@@ -1,0 +1,5 @@
+Texas Rangers,ORGANIZATION
+Rangers,ORGANIZATION
+Arizona Diamondbacks,ORGANIZATION
+Diamondbacks,ORGANIZATION
+World Series,ORGANIZATION

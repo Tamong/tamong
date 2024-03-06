@@ -1,0 +1,105 @@
+1. ~NoLeakH1 ~NoLeakH2 NoLeak {}
+2. ~okH1 NoLeakH1 {}
+3. okH1 V1 NoLeakH1 {}
+4. ~okH2 NoLeakH2 {}
+5. okH2 V2 NoLeakH2 {}
+6. ~okH2 {}
+7. okH1 {}
+8. ~V2 {}
+9. NoLeak {}
+10. ~okH1 ~NoLeakH2 NoLeak {2,1}
+11. okH1 V1 ~NoLeakH2 NoLeak {3,1}
+12. V1 NoLeakH1 {3,2}
+13. ~okH2 ~NoLeakH1 NoLeak {4,1}
+14. okH2 V2 ~NoLeakH1 NoLeak {5,1}
+15. V2 NoLeakH2 {5,4}
+16. NoLeakH1 {7,2}
+17. okH2 NoLeakH2 {8,5}
+18. ~NoLeakH2 NoLeak V1 NoLeakH1 {10,3}
+19. ~okH1 NoLeak ~okH2 {10,4}
+20. ~okH1 NoLeak okH2 V2 {10,5}
+21. ~NoLeakH2 NoLeak {10,7}
+22. okH1 V1 NoLeak ~okH2 {11,4}
+23. okH1 V1 NoLeak okH2 V2 {11,5}
+24. V1 ~NoLeakH2 NoLeak {11,10}
+25. ~NoLeakH1 NoLeak V2 NoLeakH2 {13,5}
+26. ~okH2 NoLeak V1 {13,12}
+27. V2 ~NoLeakH1 NoLeak {14,6}
+28. okH2 ~NoLeakH1 NoLeak {14,8}
+29. okH2 V2 NoLeak V1 {14,12}
+30. NoLeakH2 {15,8}
+31. V2 ~okH1 NoLeak {15,10}
+32. V2 okH1 V1 NoLeak {15,11}
+33. ~okH2 NoLeak {16,13}
+34. okH2 V2 NoLeak {16,14}
+35. okH2 ~okH1 NoLeak {17,10}
+36. okH2 okH1 V1 NoLeak {17,11}
+37. NoLeakH2 ~NoLeakH1 NoLeak {17,13}
+38. NoLeak V1 NoLeakH1 ~okH2 {18,4}
+39. NoLeak V1 NoLeakH1 okH2 V2 {18,5}
+40. ~NoLeakH2 NoLeak V1 ~okH2 {18,13}
+41. ~NoLeakH2 NoLeak V1 okH2 V2 {18,14}
+42. NoLeak V1 NoLeakH1 V2 {18,15}
+43. NoLeak V1 NoLeakH1 okH2 {18,17}
+44. ~okH1 NoLeak V2 NoLeakH2 {19,5}
+45. ~okH1 NoLeak V2 ~NoLeakH1 {19,14}
+46. ~okH1 NoLeak NoLeakH2 {19,17}
+47. NoLeak V2 {21,15}
+48. NoLeak okH2 {21,17}
+49. okH1 V1 NoLeak V2 NoLeakH2 {22,5}
+50. okH1 V1 NoLeak V2 ~NoLeakH1 {22,14}
+51. okH1 V1 NoLeak NoLeakH2 {22,17}
+52. V1 NoLeak V2 {24,15}
+53. V1 NoLeak okH2 {24,17}
+54. NoLeak V2 NoLeakH2 V1 {25,12}
+55. NoLeak V2 NoLeakH2 {25,16}
+56. ~NoLeakH1 NoLeak V2 V1 {25,24}
+57. NoLeak V1 NoLeakH2 {26,17}
+58. NoLeak V1 ~okH1 V2 {26,20}
+59. ~NoLeakH1 NoLeak {27,8}
+60. V2 NoLeak ~NoLeakH2 V1 {27,18}
+61. okH2 NoLeak ~NoLeakH2 V1 {28,18}
+62. ~NoLeakH1 NoLeak ~okH1 {28,19}
+63. ~NoLeakH1 NoLeak okH1 V1 {28,22}
+64. ~NoLeakH1 NoLeak V1 {28,26}
+65. ~okH1 NoLeak {30,10}
+66. okH1 V1 NoLeak {30,11}
+67. NoLeak V1 NoLeakH1 {30,18}
+68. V1 NoLeak {30,24}
+69. V2 NoLeak V1 ~okH2 {31,22}
+70. NoLeak NoLeakH2 {33,17}
+71. ~okH1 NoLeak V1 {35,26}
+72. NoLeak V1 NoLeakH1 V2 NoLeakH2 {38,5}
+73. NoLeak V1 NoLeakH1 NoLeakH2 {38,17}
+74. NoLeak V1 NoLeakH1 ~okH1 V2 {38,20}
+75. NoLeak V1 NoLeakH1 okH1 V2 {38,23}
+76. NoLeak V1 ~okH2 V2 NoLeakH2 {38,25}
+77. NoLeak V1 NoLeakH1 ~okH1 {38,35}
+78. NoLeak V1 NoLeakH1 okH1 {38,36}
+79. NoLeak V1 ~okH2 NoLeakH2 {38,37}
+80. NoLeak V1 okH2 V2 NoLeakH2 {39,25}
+81. ~NoLeakH2 NoLeak V1 V2 ~NoLeakH1 {40,14}
+82. ~NoLeakH2 NoLeak V1 ~okH1 V2 {40,20}
+83. ~NoLeakH2 NoLeak V1 okH1 V2 {40,23}
+84. NoLeak V1 ~okH2 ~NoLeakH1 V2 {40,25}
+85. ~NoLeakH2 NoLeak V1 ~NoLeakH1 {40,28}
+86. ~NoLeakH2 NoLeak V1 ~okH1 {40,35}
+87. NoLeak V1 ~okH2 ~NoLeakH1 {40,37}
+88. ~NoLeakH2 NoLeak V1 NoLeakH1 V2 {40,39}
+89. NoLeak V1 okH2 V2 ~NoLeakH1 {41,25}
+90. NoLeak V1 okH2 NoLeakH2 {43,37}
+91. ~okH1 NoLeak V2 V1 ~okH2 {44,40}
+92. ~okH1 NoLeak V2 V1 okH2 {44,41}
+93. ~okH1 NoLeak V1 ~okH2 {46,40}
+94. okH1 V1 NoLeak V2 ~okH2 {49,40}
+95. V1 NoLeak V2 NoLeakH2 ~NoLeakH1 {49,45}
+96. okH2 NoLeak V1 ~NoLeakH1 {61,37}
+97. okH2 NoLeak V1 ~okH1 {61,46}
+98. ~NoLeakH1 NoLeak V1 NoLeakH2 {62,51}
+99. NoLeak V1 NoLeakH1 V2 ~okH2 {72,40}
+100. NoLeak V1 V2 NoLeakH2 ~okH1 {72,45}
+101. NoLeak V1 NoLeakH2 ~okH1 {73,62}
+102. ~NoLeakH2 NoLeak V1 V2 ~okH2 {81,38}
+103. NoLeak V1 V2 ~NoLeakH1 ~okH1 {81,44}
+104. NoLeak V1 ~NoLeakH1 ~okH1 {85,46}
+Fail

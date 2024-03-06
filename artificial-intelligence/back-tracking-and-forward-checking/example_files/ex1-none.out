@@ -1,0 +1,3 @@
+1. F=1, E=1, A=5, B=1  failure
+2. F=1, E=1, A=5, B=2, C=1  failure
+3. F=1, E=1, A=5, B=2, C=2, D=1  solution
