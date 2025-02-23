@@ -29,7 +29,7 @@
 - CIFAR-10 Object Classification
 - Image Filtering
 
-[Artificial Intelligence](artifical-intelligence/)
+[Artificial Intelligence](artificial-intelligence/)
 
 - PacMan Path Finder Project
 - Back tracking and Forward checking
@@ -39,6 +39,10 @@
 
 - Text/HTML Parsing & Tokenization & Formatting
 - Sentiment Analysis
+
+[Automata Theory](automata-theory/)
+
+- Definite Finite Automata
 
 [Digital Forensics](digital-forensics/)
 
